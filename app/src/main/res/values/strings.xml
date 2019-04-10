@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NavigationDemo</string>
+    <string name="bottomnav_menu_title">BottomNav</string>
+    <string name="info_menu_title">Info</string>
+    <string name="home_bottom_nav_item_title">Home</string>
+    <string name="screen_bottom_nav_title">Screen</string>
+    <string name="info_text">Hello world, this my info page</string>
+    <string name="nav_header_1">Jetpack</string>
+    <string name="nav_header_2">Navigation</string>
+    <string name="info">Info</string>
+    <string name="map">Map</string>
+    <string name="invoices">Invoices</string>
+    <string name="details">Details</string>
+</resources>
